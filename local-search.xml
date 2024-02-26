@@ -5,11 +5,17 @@
   
   <entry>
     <title>我的第一篇博客</title>
-    <link href="/2024/02/24/hello-world/"/>
-    <url>/2024/02/24/hello-world/</url>
+    <link href="/2024/02/24/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/"/>
+    <url>/2024/02/24/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/</url>
     
-    <content type="html"><![CDATA[<p>大家好，欢迎来到我的博客！期待与大家共同进步！</p>]]></content>
+    <content type="html"><![CDATA[<p>hi，远方的朋友，欢迎来到我的博客！期待共同进步！</p>]]></content>
     
+    
+    <categories>
+      
+      <category>其他</category>
+      
+    </categories>
     
     
   </entry>
